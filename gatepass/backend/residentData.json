@@ -1,0 +1,11 @@
+{
+  "residentData": [
+    {
+      "name": "Hari",
+      "email": "hari@gmail.com",
+      "password": "123",
+      "roomNumber": "123",
+      "id": 1
+    }
+  ]
+}

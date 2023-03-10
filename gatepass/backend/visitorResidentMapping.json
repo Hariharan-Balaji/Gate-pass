@@ -1,0 +1,44 @@
+{
+  "visitorResidentMapping": [
+    {
+      "name": "Hari",
+      "email": "123@gmail.com",
+      "roomNumber": "123",
+      "purposeOfVisit": "Vacation",
+      "photo": "",
+      "residentId": 1,
+      "timestamp": "5/1/2023, 10:49:18 PM",
+      "id": 1
+    },
+    {
+      "name": "Hari",
+      "email": "123@gmail.com",
+      "roomNumber": "123",
+      "purposeOfVisit": "Vacation",
+      "photo": "",
+      "residentId": 1,
+      "timestamp": "4/3/2023, 12:49:18 PM",
+      "id": 2
+    },
+    {
+      "name": "Hari",
+      "email": "",
+      "roomNumber": "123",
+      "purposeOfVisit": "Vacation",
+      "photo": "",
+      "residentId": 1,
+      "timestamp": "3/3/2023, 9:49:18 PM",
+      "id": 1
+    },
+    {
+      "name": "",
+      "email": "123@gmail.com",
+      "roomNumber": "123",
+      "purposeOfVisit": "Vacation",
+      "photo": "",
+      "residentId": 2,
+      "timestamp": "2023-03-03T23:27:23.453Z",
+      "id": 3
+    }
+  ]
+}
